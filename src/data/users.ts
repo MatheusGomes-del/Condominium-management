@@ -14,7 +14,7 @@ export const users: Users[] = [
         email: "rogerio123@email.com",
         role: "manager",
         apartment: 101,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 2,
@@ -22,7 +22,7 @@ export const users: Users[] = [
         email: "maria123@email.com",
         role: "resident",
         apartment: 102,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 3,
@@ -46,7 +46,7 @@ export const users: Users[] = [
         email: "amanda@email.com",
         role: "resident",
         apartment: 105,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 6,
@@ -54,7 +54,7 @@ export const users: Users[] = [
         email: "lucas@email.com",
         role: "resident",
         apartment: 106,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 7,
@@ -70,7 +70,7 @@ export const users: Users[] = [
         email: "gabriel@email.com",
         role: "resident",
         apartment: 108,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 9,
@@ -86,7 +86,7 @@ export const users: Users[] = [
         email: "daniel@email.com",
         role: "resident",
         apartment: 110,
-        status: "compliant"
+        status: "active"
     },
     {
         id: 11,
@@ -102,7 +102,7 @@ export const users: Users[] = [
         email: "ethan@email.com",
         role: "resident",
         apartment: 112,
-        status: "compliant"
+        status: "active"
     }
 
 ]
